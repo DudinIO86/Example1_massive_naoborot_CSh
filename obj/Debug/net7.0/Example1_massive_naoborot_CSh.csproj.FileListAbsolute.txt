@@ -1,0 +1,15 @@
+D:\программирование\обучение\Инженер программист\мои работы\Example1_massive_naoborot_CSh\obj\Debug\net7.0\Example1_massive_naoborot_CSh.csproj.AssemblyReference.cache
+D:\программирование\обучение\Инженер программист\мои работы\Example1_massive_naoborot_CSh\obj\Debug\net7.0\Example1_massive_naoborot_CSh.GeneratedMSBuildEditorConfig.editorconfig
+D:\программирование\обучение\Инженер программист\мои работы\Example1_massive_naoborot_CSh\obj\Debug\net7.0\Example1_massive_naoborot_CSh.AssemblyInfoInputs.cache
+D:\программирование\обучение\Инженер программист\мои работы\Example1_massive_naoborot_CSh\obj\Debug\net7.0\Example1_massive_naoborot_CSh.AssemblyInfo.cs
+D:\программирование\обучение\Инженер программист\мои работы\Example1_massive_naoborot_CSh\obj\Debug\net7.0\Example1_massive_naoborot_CSh.csproj.CoreCompileInputs.cache
+D:\программирование\обучение\Инженер программист\мои работы\Example1_massive_naoborot_CSh\bin\Debug\net7.0\Example1_massive_naoborot_CSh.exe
+D:\программирование\обучение\Инженер программист\мои работы\Example1_massive_naoborot_CSh\bin\Debug\net7.0\Example1_massive_naoborot_CSh.deps.json
+D:\программирование\обучение\Инженер программист\мои работы\Example1_massive_naoborot_CSh\bin\Debug\net7.0\Example1_massive_naoborot_CSh.runtimeconfig.json
+D:\программирование\обучение\Инженер программист\мои работы\Example1_massive_naoborot_CSh\bin\Debug\net7.0\Example1_massive_naoborot_CSh.dll
+D:\программирование\обучение\Инженер программист\мои работы\Example1_massive_naoborot_CSh\bin\Debug\net7.0\Example1_massive_naoborot_CSh.pdb
+D:\программирование\обучение\Инженер программист\мои работы\Example1_massive_naoborot_CSh\obj\Debug\net7.0\Example1_massive_naoborot_CSh.dll
+D:\программирование\обучение\Инженер программист\мои работы\Example1_massive_naoborot_CSh\obj\Debug\net7.0\refint\Example1_massive_naoborot_CSh.dll
+D:\программирование\обучение\Инженер программист\мои работы\Example1_massive_naoborot_CSh\obj\Debug\net7.0\Example1_massive_naoborot_CSh.pdb
+D:\программирование\обучение\Инженер программист\мои работы\Example1_massive_naoborot_CSh\obj\Debug\net7.0\Example1_massive_naoborot_CSh.genruntimeconfig.cache
+D:\программирование\обучение\Инженер программист\мои работы\Example1_massive_naoborot_CSh\obj\Debug\net7.0\ref\Example1_massive_naoborot_CSh.dll
